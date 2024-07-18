@@ -1,5 +1,11 @@
 
 
+--important link of ( Collectors.mapping() method )
+
+https://www.javabrahman.com/java-8/java-8-how-to-use-collectors-mapping-collector-with-examples/#google_vignette
+
+
+
 
 
 --------------------		10 Java 8 features __ Lecture No _ 10 __ Smart Java Developer			-------------------------------
